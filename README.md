@@ -196,33 +196,7 @@ A focused exercise in writing clean, idiomatic Go — proving language range bey
 
 ---
 
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> Experience
 
-### AI / Document Compliance Engineer *(self-directed)* — Personal Build
-`Ongoing`
-
-Designed and prototyped a document-compliance review agent applying production AI patterns to a real operational workflow.
-
-- Built an LLM-driven agent to assist document review and compliance checks.
-- Applied RAG and grounded-evaluation techniques to reduce manual review effort.
-- Focused on auditability, traceability, and reliability of automated decisions.
-
-`RAG` `LLM Agents` `Compliance Automation` `Python`
-
-<br/>
-
-### Document Review & Compliance — `[Bank Name]`
-`[Date Range]`
-
-Worked in a document review and compliance function within a banking environment.
-
-- Reviewed documentation against compliance requirements and internal standards.
-- Identified discrepancies and ensured records met regulatory expectations.
-- Developed domain understanding that informs AI tooling for compliance workflows.
-
-`Compliance` `Document Review` `Attention to Detail` `Process Rigor`
-
----
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Achievements
 
@@ -230,7 +204,7 @@ Worked in a document review and compliance function within a banking environment
 
 | Recognition | Details |
 |:------------|:--------|
-| 🏅 **Undergraduate Academic Excellence International Scholarship** | Awarded for outstanding academic performance at UTS |
+| 🏅 **Undergraduate Academic Excellence International Scholarship** | Awarded for 25% tution fee at UTS |
 | 📈 **GPA 6.33 / 7.0** | Sustained high distinction-level performance in a Bachelor of Artificial Intelligence |
 | 🤖 **AI/ML Project Portfolio** | RAG systems, hallucination detection, and model-reliability tooling built independently |
 | 🚀 **FounderHacks 2026 Participant** | Conceived and shipped a full-stack product within hackathon timeframe |
@@ -265,9 +239,7 @@ Worked in a document review and compliance function within a banking environment
 
 <img src="https://img.shields.io/badge/Mastering_RAG_Systems_with_Knowledge_Graphs-7C3AED?style=for-the-badge&logo=packt&logoColor=white"/>
 
-**AWS** *(Exam Prep)*
 
-<img src="https://img.shields.io/badge/ML_Specialty_Exam_Prep-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 </div>
 
