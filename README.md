@@ -281,13 +281,6 @@ A focused exercise in writing clean, idiomatic Go — proving language range bey
 
 ---
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=loichoi18&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
-
-</div>
 
 ---
 
