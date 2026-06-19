@@ -245,24 +245,7 @@ A focused exercise in writing clean, idiomatic Go — proving language range bey
 
 ---
 
-## <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="28"> Coding Profiles
 
-<div align="center">
-
-<a href="https://leetcode.com/loichoi18/">
-  <img src="https://img.shields.io/badge/LeetCode-6366F1?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-<a href="https://auth.geeksforgeeks.org/user/loichoi18/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-8B5CF6?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-<a href="https://www.hackerrank.com/loichoi18">
-  <img src="https://img.shields.io/badge/HackerRank-A855F7?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-<a href="https://www.codechef.com/users/loichoi18">
-  <img src="https://img.shields.io/badge/CodeChef-7C3AED?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
