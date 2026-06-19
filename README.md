@@ -43,16 +43,16 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About
 
-I'm an **AI Engineer** and **software engineer** focused on shipping reliable, production-grade machine learning systems — not demos. My core strength is **building end-to-end AI products**: from data and model layers through retrieval pipelines, evaluation, and the full-stack surfaces that put them in front of users.
+I'm an **AI Engineer internship seeker**  focused on shipping reliable, production-grade machine learning systems, not demos. My core strength is **building end-to-end AI products**: from data and model layers through retrieval pipelines, evaluation, and the full-stack surfaces that put them in front of users.
 
-I work across the stack with a **product engineering mindset** — owning the path from problem definition to a deployed, observable, maintainable system.
+I work across the stack with a **product engineering mindset**, owning the path from problem definition to a deployed, observable, maintainable system.
 
 - 🤖 **AI / ML** — RAG architectures, LLM evaluation & observability, hallucination detection, multi-agent orchestration, deep learning (CNNs, Transformers).
 - 🛠️ **Software Engineering** — clean APIs, typed services, automated testing, CI/CD, performance-minded systems design.
 - 🌐 **Full-Stack** — React frontends, Python/Node backends, relational data modelling, cloud deployment.
 - 📊 **Data & MLOps** — pipelines, model regression detection, evaluation metrics, drift and reliability monitoring.
 
-> **Open To:** AI/ML Engineering Internships · Software Engineering Internships · Data Analytics Roles · Graduate Programs · Open Source Collaboration
+> **Open To:** AI/ML Engineering Internships · Data Analytics Roles · Graduate Programs · Open Source Collaboration
 
 ---
 
@@ -86,14 +86,14 @@ I work across the stack with a **product engineering mindset** — owning the pa
 
 ## <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="28"> AI / ML Expertise
 
-| Domain | Proficiency | Details |
-|:-------|:------------|:--------|
-| **Retrieval-Augmented Generation (RAG)** | Expert | Hybrid retrieval, chunking strategy, knowledge-graph augmentation, private/on-prem RAG chatbots |
-| **LLM Evaluation & Observability** | Expert | Hallucination detection, grounded-answer scoring, regression/drift monitoring for model outputs |
-| **Multi-Agent Orchestration** | Advanced | Tool-calling agents, MCP-based orchestration, compliance & document-review agents |
-| **Deep Learning** | Advanced | CNNs, Vision Transformers, sequence models, full Andrew Ng DL Specialization |
-| **MLOps & Reliability** | Advanced | Model regression detection, evaluation pipelines, deployment & monitoring |
-| **Data Analytics** | Proficient | Feature engineering, statistical evaluation, SQL modelling, end-to-end pipelines |
+| Domain | Details |
+|:-------|:--------|
+| **Retrieval-Augmented Generation (RAG)** | Hybrid retrieval, chunking strategy, knowledge-graph augmentation, private/on-prem RAG chatbots |
+| **LLM Evaluation & Observability** | Hallucination detection, grounded-answer scoring, regression/drift monitoring for model outputs |
+| **Multi-Agent Orchestration** | Tool-calling agents, MCP-based orchestration, compliance & document-review agents |
+| **Deep Learning** | CNNs, Vision Transformers, sequence models, full Andrew Ng DL Specialization |
+| **MLOps & Reliability** | Model regression detection, evaluation pipelines, deployment & monitoring |
+| **Data Analytics** | Feature engineering, statistical evaluation, SQL modelling, end-to-end pipelines |
 
 ---
 
